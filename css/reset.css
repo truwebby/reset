@@ -1,4 +1,4 @@
-/*! reset.scss v0.01 |  Rahul Srivastava | https://github.com/truwebby/reset */
+/*! reset.css v0.01 |  Rahul Srivastava | https://github.com/truwebby/reset */
 /* Margin reset */
 .no-Mn {
   margin: 0 !important;
@@ -25,7 +25,7 @@
   padding: 0 !important;
 }
 
-.no-PgTop {
+.no-Pg-Tp {
   padding-top: 0 !important;
 }
 
@@ -42,12 +42,12 @@
 }
 
 /*Border reset*/
-.noBorder {
+.no-Br {
   border: none !important;
 }
 
 /*Border radius reset*/
-.noBorderRadius {
+.no-Br-Rs {
   border-radius: 0 !important;
 }
 
